@@ -24,13 +24,13 @@ The Ashlar is our custom engineered ESP32 mining device. It comes from the facto
 2. Insert the Ashlar into the base. Then plug the base into the wall using the provided power supply and *power only* cable. It will greet you by gently pulsing its LEDs. Say good morning.
 ![alt text](setup.jpg)
 
-3. Download the Entropy app from the Crapple App store or the Google Play Store. If you are one of our beta testers, install the .apk file provided and these [instructions](https://www.lifewire.com/install-apk-on-android-4177185)
+3. Download the Entropy app from the Crapple App store or the Google Play Store. If you are one of our beta testers, install the .apk file provided and follow these [instructions](https://www.lifewire.com/install-apk-on-android-4177185).
 
-4. Create a **NEW** solana wallet that will be used exclusively for this Ashlar
+4. Create a **NEW** solana wallet that will be used exclusively for this Ashlar.
 
-5. Turn on your phone's bluetooth radio
+5. Turn on your phone's bluetooth radio.
 
-6. Launch the app
+6. Launch the app.
 
 ![alt text](app_icon.jpg)
 
@@ -38,15 +38,15 @@ The Ashlar is our custom engineered ESP32 mining device. It comes from the facto
 
 ![alt text](app1.jpg)
 
-8. Select Ashlar from the list of available devices
+8. Select Ashlar from the list of available devices.
 
 ![alt text](app2.jpg)
 
-9. Enter the address of your new solana wallet and hit submit
+9. Enter the address of your new solana wallet and hit submit.
 
 ![alt text](app3.jpg)
 
-10. Select your Wifi network and enter the password when prompted
+10. Select your Wifi network and enter the password when prompted.
 
 ![alt text](app4.jpg)
 
@@ -54,7 +54,7 @@ The Ashlar is our custom engineered ESP32 mining device. It comes from the facto
 
 ## Reprovisioning
 
-You can change the Wifi network your Ashlar is connected. If you have not yet claimed on your new wallet you can also submit a new wallet address.
+You can change the Wifi network your Ashlar is connected to. If you have not yet claimed on your new wallet you can also submit a new wallet address.
 
 To start the reprovisioning process, insert a paperclip into the hole on the side of the device. Depress the button and hold it down for 5s. The LEDs will turn blue. They will then turn red, after which you can remove the paperclip. Then follow the provisioning instructions starting at step 5.
 
